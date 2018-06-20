@@ -1,0 +1,16 @@
+{
+  "name": "blog.comuttun.jp",
+  "version": "1.0.0",
+  "description": "My blog",
+  "repository": "git@github.com:comuttun/blog.comuttun.jp.git",
+  "author": "KOMATSU Seiji <comuttun@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.10.1"
+  }
+}
